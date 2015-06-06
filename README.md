@@ -13,3 +13,7 @@ Feel free to help me make this work.
 ## License
 
 Public domain/CC0.
+
+## History
+
+This was done as a part of [National Day of Civic Hacking 2015 in Pittsburgh with OpenPGH](http://www.meetup.com/Open-Pittsburgh-our-Regions-Code-for-America-Brigade/events/221659747/).

@@ -1,0 +1,31 @@
+data:
+  - year: 2099
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/f8ab32f7-44c7-43ca-98bf-c1b444724598/download/2099.csv
+    comment: perpetual license data
+  - year: 2015
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/4d49202b-8bac-4cf9-9915-798a342253a6/download/2015.csv
+    comment:
+  - year: 2014
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/19e5756c-a964-4ac3-abb5-ab1f7a1f9bd6/download/2014.csv
+    comment:
+  - year: 2013
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/9ad226b2-4231-4158-bf71-043be226e3d9/download/2013.csv
+    comment:
+  - year: 2012
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/891ee2e8-411a-433c-80a3-885b13008d66/download/2012.csv
+    comment:
+  - year: 2011
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/a0b2bd41-cee9-4501-92b9-4cd55ed61ee6/download/2011.csv
+    comment:
+  - year: 2010
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/174fc1be-68a6-4b6a-96d9-e5ef540b8e95/download/2010.csv
+    comment:
+  - year: 2009
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/5a019e45-e2cb-4f48-8934-1988923239d2/download/2009.csv
+    comment:
+  - year: 2008
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/82040517-c2c1-41d9-a810-73b15603cd9a/download/2008.csv
+    comment:
+  - year: 2007
+    url: https://data.wprdc.org/dataset/ad5bd3d6-1b53-4ed0-8cd9-157a985bd0bd/resource/2623112a-bc79-4318-b816-ebb1d576da9c/download/2007.csv
+    comment:

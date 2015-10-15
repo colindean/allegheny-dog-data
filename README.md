@@ -2,9 +2,9 @@ Allegheny County Dog License database crawler
 =============================================
 
 This little program automates the export of CSV data from the
-[Allegheny County Dog License Database](http://infoportal.alleghenycounty.us/dogdata/default.aspx).
+[Allegheny County Dog License Database](http://infoportal.alleghenycounty.us/dogdata/default.aspx) from [Western Pennsylvania Regional Data Center](http://www.wprdc.org).
 
-This data is made available in CSV format, but the export is only per year. This script gets all of the years (eventually) and not only combines them in a CSV file, but also as an sqlite3 database.
+This data is made available in CSV format, but the export is only per year. This script gets all of the years and combines them in an sqlite3 database.
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 require 'mechanize'
 
-class Retriever
+class CountyRetriever
 
   DOG_DATA_URL = 'http://infoportal.alleghenycounty.us/dogdata/default.aspx'
 

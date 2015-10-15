@@ -4,10 +4,10 @@ require 'bundler'
 Bundler.require
 require 'csv'
 
-require './retriever'
+require './county_retriever'
 require './persister'
 
-ret = Retriever.new
+ret = CountyRetriever.new
 
 first_page = ret.get_first_page
 
